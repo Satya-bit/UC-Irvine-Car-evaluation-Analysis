@@ -5,10 +5,15 @@ Car Evaluation Database was derived from a simple hierarchical decision model or
 
 # About dataset and attributes
 buying:   vhigh, high, med, low.
+
 maint:    vhigh, high, med, low.
+
 doors:    2, 3, 4, 5more.
+
 persons:  2, 4, more.
+
 lug_boot: small, med, big.
+
 safety:   low, med, high.
 
 The class we need to predict for car is divided into four categories ('unacc', 'acc', 'good', 'vgood')
