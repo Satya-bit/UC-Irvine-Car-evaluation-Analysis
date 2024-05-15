@@ -1,4 +1,4 @@
-# UC-Irvine-Car-evaluation-Analysis
+# UC-Irvine-Car-evaluation-Analysis usi9ng KNN from scratch
 Car Evaluation Database was derived from a simple hierarchical decision model originally developed for the demonstration of DEX, M. Bohanec, V. Rajkovic: Expert system for decision making. Sistemica 1(1), pp. 145-157, 1990.).  The dataset is taken from UC Irvine Machine Learning Repository
 
 ![image](https://github.com/Satya-bit/UC-Irvine-Car-evaluation-Analysis/assets/70309925/83f9d752-8a48-418e-aa67-9187ba5488a5)
@@ -80,3 +80,8 @@ A paired t-test is conducted between accuracies obtained from both methods to de
 ->Interpreting Results:
 
 The p-value is compared against a significance level (alpha) to determine whether to reject the null hypothesis.
+
+# ACCURACY
+![image](https://github.com/Satya-bit/UC-Irvine-Car-evaluation-Analysis/assets/70309925/5eeecdce-04a0-4677-82a0-4df17a370694)
+
+
