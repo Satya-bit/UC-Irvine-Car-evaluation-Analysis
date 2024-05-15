@@ -84,4 +84,9 @@ The p-value is compared against a significance level (alpha) to determine whethe
 # ACCURACY
 ![image](https://github.com/Satya-bit/UC-Irvine-Car-evaluation-Analysis/assets/70309925/5eeecdce-04a0-4677-82a0-4df17a370694)
 
+If the p-value is greater than 0.05 (assuming 0.05 is your chosen significance level, often denoted as α), the interpretation would be as follows:
+
+Fail to Reject Null Hypothesis: With a p-value greater than 0.05, you would fail to reject the null hypothesis. This suggests that there's insufficient evidence to claim that there's a statistically significant difference between the mean accuracies obtained from the custom KNN implementation and scikit-learn's KNN implementation.
+
+No Statistically Significant Difference: In practical terms, it means that the two implementations are statistically similar in terms of performance on this dataset, based on the chosen significance level.
 
